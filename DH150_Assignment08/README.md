@@ -10,6 +10,7 @@ Craigslist is a web-based service that allows anyone to post things such as jobs
 
 
 ### Design Statement:
+My Design statement.
 
 
 ### Competitor Analysis: Heuristic Evaluation/Usability Testing
