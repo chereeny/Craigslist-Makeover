@@ -1,7 +1,10 @@
-# Udpated Craigslist
-
 ## By Chereen Tam 
+
 ### DH150_Final Assignment (Professor Sookie)
+
+
+
+
 
 
 ### Introduction:
@@ -12,9 +15,14 @@
 
 
 
+
+
+
 ### Design Statement:
 
   Currently, the Craigslist site has several issues that I am interested in solving. My main concerns are the design aspect and the safety aspect while looking through the site for posts that interest the user. The current Craigslist site is difficult to digest due to the overwhelming amount of text and the poor design choices. The site seems unreliable and unprofessional and is not intuitive to users. Additionally, there are many categorization issues that need to be solved to improve the functionality of the site. Finally, the safety aspect is important for online marketplaces due to anyone being the seller. Therefore, it is important for the site to implement safety features for new and unfamiliar users to help identify which posts are more trustworthy. 
+
+
 
 
 
@@ -22,17 +30,24 @@
 
 The purpose of UT is to uncover any issues with the developmental and design process of the website. UT uses a small sample size that requires the participants to do a detailed test in order for the testers to collect empirical data. These tests are controlled and can be done in a location or remotely. The participants will come from different backgrounds and they are usually asked to perform realistic tasks while using the product. As a result, UT is able to uncover more global usability problems. The goal of usability testing is to inform the design, eliminate frustration, and improve profitability.
 
+
+
 **Heuristic Evaluation**
 
 Heuristic evaluations are general points that should be included to create a successful and interactive design within a product. It is important to evaluate the site that the designer is interested in changing to determine the current usability of the site. These ten principles are visibility of system status, match between system and the real world, user control and freedom, consistency and standards, error prevention, recognition rather than recall, flexibility and efficiency of use, aesthetic and minimalist design, help users recognize, diagnose and recover from errors, and help and documentation.
 
 [Continue Reading Heurisitc Evaluations...](https://github.com/chereeny/DH150_Assignment1)
 
+
+
 **Usability Testing**
 
 Usability testing tests how functional the interfaces in the product. There are five important quality attributes, learnability, efficiency, memorability, errors, and satisfaction, that need to be considered when testing for usability. By using test users, the usability testing will allow the designers to evaluate and understand the actions and through processes of the users. Ultimately, this will allow designers to identify the weak points of the product’s usability and improve upon them.
 
 [Continue Reading Usability Testing...](https://github.com/chereeny/DH150-Assignment2)
+
+
+
 
 
 
@@ -46,6 +61,9 @@ Usability testing tests how functional the interfaces in the product. There are 
 
 
 
+
+
+
 ### UX Storytelling:
 
   The purpose of UX storytelling is to communicate a certain product, design, and story to the audience. To do UX storytelling, the creators must think and work from the users perspective in order to understand their behaviors and motivations. By understanding and testing different users, the creators will be able to create a better product that is better for everyone. Ultimately, UX storytelling must be able to fulfill the users needs and goals and deliver the product’s main focus.
@@ -56,6 +74,9 @@ Usability testing tests how functional the interfaces in the product. There are 
 
 
 
+
+
+
 ### Wireframe and graphic design element variation:
 
 ![Lofiflow](1.png)
@@ -63,6 +84,9 @@ Usability testing tests how functional the interfaces in the product. There are 
 ![Lofiflow](ScreenDesigns.png)
 
 [Continue Reading Wireframing...](https://github.com/chereeny/DH150-Assignment6)
+
+
+
 
 
 
@@ -78,6 +102,9 @@ Usability testing tests how functional the interfaces in the product. There are 
 
 
 
+
+
+
 ### High-Fidelity Prototype:
 
   The high fidelity prototype is created after making alterations to the low fidelity prototype. This prototype is created to fully evaluate whether the new idea or new product is feasible. At this stage, the prototype is semi-functionally interactive and can be tested as if clicking through a real site. This will allow the designers to full grasp whether their idea needs to be changed or does not work. 
@@ -89,6 +116,9 @@ Usability testing tests how functional the interfaces in the product. There are 
 [Prototype Link](https://xd.adobe.com/view/65c01a42-19a9-414c-55ef-66b362ae7e15-13f1/)
 
 [Continue Reading High-Fidelity Prototype...](https://github.com/chereeny/DH150-Assignment7)
+
+
+
 
 
 
