@@ -124,6 +124,9 @@ Usability testing tests how functional the interfaces in the product. There are 
 ### Pitch Video:
 
 [![Pitch](ScreenVid.png)](https://drive.google.com/file/d/1UL-yTgUCW2eHLyu8kfh-fkeZu9LbC7je/view?usp=sharing)
+(Click image above for video)
+
+[Or Press The Link Here!](https://drive.google.com/file/d/1UL-yTgUCW2eHLyu8kfh-fkeZu9LbC7je/view?usp=sharing)
 
 
 
